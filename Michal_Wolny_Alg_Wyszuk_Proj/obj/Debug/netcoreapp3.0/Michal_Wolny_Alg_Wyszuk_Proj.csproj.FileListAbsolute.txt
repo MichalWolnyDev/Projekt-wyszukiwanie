@@ -1,0 +1,11 @@
+C:\Users\Majkelo\Desktop\PROJEKT-ALGORYTMY-1\skonczone\Michal_Wolny_Alg_Wyszuk\Michal_Wolny_Alg_Wyszuk_Proj\Michal_Wolny_Alg_Wyszuk_Proj\bin\Debug\netcoreapp3.0\Michal_Wolny_Alg_Wyszuk_Proj.exe
+C:\Users\Majkelo\Desktop\PROJEKT-ALGORYTMY-1\skonczone\Michal_Wolny_Alg_Wyszuk\Michal_Wolny_Alg_Wyszuk_Proj\Michal_Wolny_Alg_Wyszuk_Proj\bin\Debug\netcoreapp3.0\Michal_Wolny_Alg_Wyszuk_Proj.deps.json
+C:\Users\Majkelo\Desktop\PROJEKT-ALGORYTMY-1\skonczone\Michal_Wolny_Alg_Wyszuk\Michal_Wolny_Alg_Wyszuk_Proj\Michal_Wolny_Alg_Wyszuk_Proj\bin\Debug\netcoreapp3.0\Michal_Wolny_Alg_Wyszuk_Proj.runtimeconfig.json
+C:\Users\Majkelo\Desktop\PROJEKT-ALGORYTMY-1\skonczone\Michal_Wolny_Alg_Wyszuk\Michal_Wolny_Alg_Wyszuk_Proj\Michal_Wolny_Alg_Wyszuk_Proj\bin\Debug\netcoreapp3.0\Michal_Wolny_Alg_Wyszuk_Proj.runtimeconfig.dev.json
+C:\Users\Majkelo\Desktop\PROJEKT-ALGORYTMY-1\skonczone\Michal_Wolny_Alg_Wyszuk\Michal_Wolny_Alg_Wyszuk_Proj\Michal_Wolny_Alg_Wyszuk_Proj\bin\Debug\netcoreapp3.0\Michal_Wolny_Alg_Wyszuk_Proj.dll
+C:\Users\Majkelo\Desktop\PROJEKT-ALGORYTMY-1\skonczone\Michal_Wolny_Alg_Wyszuk\Michal_Wolny_Alg_Wyszuk_Proj\Michal_Wolny_Alg_Wyszuk_Proj\bin\Debug\netcoreapp3.0\Michal_Wolny_Alg_Wyszuk_Proj.pdb
+C:\Users\Majkelo\Desktop\PROJEKT-ALGORYTMY-1\skonczone\Michal_Wolny_Alg_Wyszuk\Michal_Wolny_Alg_Wyszuk_Proj\Michal_Wolny_Alg_Wyszuk_Proj\obj\Debug\netcoreapp3.0\Michal_Wolny_Alg_Wyszuk_Proj.csprojAssemblyReference.cache
+C:\Users\Majkelo\Desktop\PROJEKT-ALGORYTMY-1\skonczone\Michal_Wolny_Alg_Wyszuk\Michal_Wolny_Alg_Wyszuk_Proj\Michal_Wolny_Alg_Wyszuk_Proj\obj\Debug\netcoreapp3.0\Michal_Wolny_Alg_Wyszuk_Proj.AssemblyInfoInputs.cache
+C:\Users\Majkelo\Desktop\PROJEKT-ALGORYTMY-1\skonczone\Michal_Wolny_Alg_Wyszuk\Michal_Wolny_Alg_Wyszuk_Proj\Michal_Wolny_Alg_Wyszuk_Proj\obj\Debug\netcoreapp3.0\Michal_Wolny_Alg_Wyszuk_Proj.AssemblyInfo.cs
+C:\Users\Majkelo\Desktop\PROJEKT-ALGORYTMY-1\skonczone\Michal_Wolny_Alg_Wyszuk\Michal_Wolny_Alg_Wyszuk_Proj\Michal_Wolny_Alg_Wyszuk_Proj\obj\Debug\netcoreapp3.0\Michal_Wolny_Alg_Wyszuk_Proj.dll
+C:\Users\Majkelo\Desktop\PROJEKT-ALGORYTMY-1\skonczone\Michal_Wolny_Alg_Wyszuk\Michal_Wolny_Alg_Wyszuk_Proj\Michal_Wolny_Alg_Wyszuk_Proj\obj\Debug\netcoreapp3.0\Michal_Wolny_Alg_Wyszuk_Proj.pdb
